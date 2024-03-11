@@ -14,19 +14,19 @@ student's ability to refactor code and improve functionality of the Task Manager
 
 The following functions have been set up:
 
-register a user
+- register a user
 
-add a task
+- add a task
 
-view all tasks
+- view all tasks
 
-view my tasks
+- view my tasks
 
-generate reports
+- generate reports
 
-display statistics
+- display statistics
 
-exit
+- exit
 
 
 Admin is given the additional functionality to register users, display statistics  and generate reports.  The generate reports function generates txt files containing:
