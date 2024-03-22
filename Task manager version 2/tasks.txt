@@ -1,0 +1,9 @@
+admin;Python;Administer code exercises;2024-03-23;2024-02-27;No
+John;Charity work;Program for charity event;2024-04-04;2024-02-06;Yes
+Ada;Code;Program Robot;2024-03-07;2024-03-02;Yes
+Grace;OOP tutorial;Prepare slides;2025-01-01;2024-03-08;Yes
+Ada;Manage assigned tasks;Check overview reports;2024-03-19;2024-03-09;No
+Ada;Refactor holiday.py;Check for user-friendly output,handle errors;2024-03-18;2024-03-15;Yes
+Henry;Code navigation system;Design code for car navigation system;2024-04-04;2024-03-15;Yes
+Charles;Shopping;Groceries;2024-03-19;2024-03-17;No
+Charles;Mainframes;Check efficiency.;2024-03-23;2024-03-19;No
